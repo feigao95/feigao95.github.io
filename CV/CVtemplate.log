@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.25)  2 DEC 2023 19:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.25)  10 APR 2025 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,12 +715,12 @@ Overfull \hbox (26.32137pt too wide) in paragraph at lines 153--160
  []
 
 
-Overfull \hbox (23.99997pt too wide) in paragraph at lines 163--176
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 163--177
 [] 
  []
 
 
-Overfull \hbox (23.99997pt too wide) in paragraph at lines 177--202
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 178--204
 [][] 
  []
 
@@ -728,22 +728,22 @@ Overfull \hbox (23.99997pt too wide) in paragraph at lines 177--202
 
 {d:/Software/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/Soft
 ware/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-Overfull \hbox (23.99997pt too wide) in paragraph at lines 203--214
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 205--218
 [][] 
  []
 
 [2]
-Overfull \hbox (26.32137pt too wide) in paragraph at lines 266--275
+Overfull \hbox (26.32137pt too wide) in paragraph at lines 270--279
  [] 
  []
 
 
-Overfull \hbox (23.99997pt too wide) in paragraph at lines 286--293
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 290--297
 [] 
  []
 
 
-Overfull \hbox (23.99997pt too wide) in paragraph at lines 296--301
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 300--305
 [] 
  []
 
@@ -764,14 +764,14 @@ Here is how much of TeX's memory you used:
  35798 multiletter control sequences out of 15000+600000
  592581 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,649b,458s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,666b,458s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/Software/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb><d:/
 Software/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb><d:/Softwa
 re/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on CVtemplate.pdf (3 pages, 59841 bytes).
+Output written on CVtemplate.pdf (3 pages, 59993 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
+ 122 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  11 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
